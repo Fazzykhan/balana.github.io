@@ -1,0 +1,45 @@
+.text{
+  font-family: 'Patua One';
+  background-color:rgb(0, 0, 0);
+}
+.size{
+  word-spacing: 10px;
+}
+.text1{
+  animation:   1s linear infinite;
+}
+.text2{
+  animation:  1s linear infinite;
+}
+.text3{
+  animation:  1s linear infinite;
+}
+.text4{
+  animation:  1s linear infinite;}
+  .text5{
+    animation:  1s linear infinite;}
+    .text6{
+      animation:  1s linear infinite;}
+      .text7{
+        animation:  1s linear infinite;}
+
+.size{
+  padding-top: 10px;
+  font-family: 'Dancing Script';
+  color: whitesmoke;
+}
+.style{
+  font-family: 'Parisienne','cursive';
+  font-size: larger;
+  font-style: italic;
+ ;
+  }
+  .color{
+    background-color:rgb(0, 0, 0);
+    padding-bottom: -50px;
+    padding-top: 20px;
+  }
+  .part4{
+    padding-top: 10%;}
+  
+   
